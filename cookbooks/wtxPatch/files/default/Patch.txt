@@ -1,0 +1,1 @@
+THIS Cookbook will update the resourceregistry.sh file present in the ITX directory
